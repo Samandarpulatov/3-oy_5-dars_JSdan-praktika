@@ -1,0 +1,10 @@
+let a = "Yoshingniz nechchida?";
+let b = 2023;
+let c = 3;
+let d = "Nechchi yoshga kirmoqchisiz?";
+let yoshingiz = prompt(a);
+let kirmoqchiligi = prompt(d);
+console.log("Yoshingiz hozir" + " " + yoshingiz + "da");
+console.log(b - yoshingiz + "yilda tug'ilgan ekansiz😊");
+console.log("3yildan so'ng" + " " + (c + +yoshingiz) + "yoshga kirar ekansiz👍👍");
+console.log("Sizni" + " " + kirmoqchiligi + "ga kirishingiz uchun" + " " +  (Number(kirmoqchiligi) - Number(yoshingiz)) + "yil bor ekan!");
